@@ -1,6 +1,6 @@
 # ChatMobile
 
-Run commands in this oder
+Run commands in this order
 
 ```
 ros2 launch articubot_one launch_robot.launch.py
@@ -9,9 +9,8 @@ ros2 launch articubot_one launch_robot.launch.py
 ```
 ros2 launch articubot_one launch_sim.launch.py world:=src/articubot_one/world/obstacles.world
 ```
-
 ```
-rviz2 -d src/articubot_one/config/main.rviz
+rviz2 -d src/articubot_one/config/bot.rviz
 
 ```
 
