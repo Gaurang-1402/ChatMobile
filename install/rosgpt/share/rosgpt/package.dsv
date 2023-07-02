@@ -1,0 +1,9 @@
+source;share/rosgpt/hook/pythonpath.ps1
+source;share/rosgpt/hook/pythonpath.dsv
+source;share/rosgpt/hook/pythonpath.sh
+source;share/rosgpt/hook/ament_prefix_path.ps1
+source;share/rosgpt/hook/ament_prefix_path.dsv
+source;share/rosgpt/hook/ament_prefix_path.sh
+source;../../build/rosgpt/share/rosgpt/hook/pythonpath_develop.ps1
+source;../../build/rosgpt/share/rosgpt/hook/pythonpath_develop.dsv
+source;../../build/rosgpt/share/rosgpt/hook/pythonpath_develop.sh
