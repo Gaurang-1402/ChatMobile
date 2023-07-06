@@ -1,6 +1,11 @@
 # ChatMobile: Control Mobile Robot with Natural Language
 
-ChatMobile showcases the power of Language Logic Models (LLMs) by allowing users to control mobile robots using simple, natural language instructions. The system currently operates within a simulated environment for testing and development purposes.
+ChatMobile is a project that merges Language Logic Models (LLMs) with the control of mobile robots. With it, users can operate mobile robots using simple, natural language commands. The project is built using ROS2 (Robot Operating System) Humble, and its simulations run within the Gazebo environment, providing a realistic platform for mobile robot behavior.
+
+Accompanying ChatMobile is a user-centric web application that presents users with a straightforward interface to input their commands. This melding of advanced technology and a user-friendly design creates an accessible and intuitive experience for controlling mobile robots.
+
+While ChatMobile currently functions within a simulated environment for thorough testing and development, it is designed with real-world applications in mind. The system can translate natural language instructions into actual robotic commands when required.
+
 
 Key features include:
 - A user-friendly web application that provides an interactive interface for mobile robot control
